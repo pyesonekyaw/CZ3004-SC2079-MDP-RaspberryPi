@@ -147,6 +147,7 @@ I used Group 28's code as a boilerplate/baseline, but improved it and changed th
 - [Pi_LibCamera_GUI](https://github.com/Gordon999/Pi_LIbCamera_GUI)
 
 # Related Repositories
-- [Website](https://github.com/pyesonekyaw/MDP-Showcase)
-- [Algorithm](placeholder)
-- [Image Recognition](placeholder)
+* [Website](https://github.com/pyesonekyaw/MDP-Showcase)
+* [Algorithm](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Algorithm)
+* [Simulator](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-Simulator)
+* [Image Recognition](https://github.com/pyesonekyaw/CZ3004-SC2079-MDP-ImageRecognition)
